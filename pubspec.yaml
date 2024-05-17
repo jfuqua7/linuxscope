@@ -12,9 +12,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.3
+  http: ^1.2.1
   flutter_localizations:
     sdk: flutter
+  fluent_ui: ^4.8.7
+  window_manager: ^0.3.8
+  dartssh2: ^2.8.2
 
 dev_dependencies:
   flutter_test:

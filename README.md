@@ -1,4 +1,4 @@
-# linux_system_migrator
+# LinuxScope
 
 A new Flutter project.
 
